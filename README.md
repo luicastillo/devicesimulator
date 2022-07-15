@@ -1,4 +1,9 @@
 # devicesimulator
+
+# Diagrama de conexion microservicios: 
+
+https://drive.google.com/file/d/1W2x-MG5P1SscvG_8_ZXe4cebR76_kMzW/view?usp=sharing
+
 # Pasos instalacion y funcionaiento de los componentes
 
 1) instalar motor de base de datos postgresql del siguiente link: https://www.postgresql.org/download/
